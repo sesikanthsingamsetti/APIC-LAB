@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<project name="APIConnect" default="Deploy">
+<target name="Deploy" description="Publish to API Connect server">  
+<echo> API Details from property file :</echo>
+</target>
